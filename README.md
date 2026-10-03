@@ -1,5 +1,9 @@
 # Neverlose Reloaded
 
+> [!WARNING]
+> This project originally started as a DX9 project and was later converted to DX11.
+> Please do not download or use it expecting a DX9 version.
+
 <p align="center">
   <img src="assets/1.png" alt="Neverlose Reloaded menu — Rage page" width="820" />
 </p>
