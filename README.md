@@ -3,6 +3,9 @@
 > [!WARNING]
 > This project originally started as a DX9 project and was later converted to DX11.
 > Please do not download or use it expecting a DX9 version.
+>
+> This is a 1:1 recreation of the Neverlose Reloaded menu.
+> It does not contain anything that gets injected into the game.
 
 <p align="center">
   <img src="assets/1.png" alt="Neverlose Reloaded menu — Rage page" width="820" />
